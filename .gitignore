@@ -1,0 +1,12 @@
+# Archivos binarios y temporales
+*.exe
+*.out
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Directorio de dependencias (si existe)
+vendor/
